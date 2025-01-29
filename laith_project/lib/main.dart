@@ -1,12 +1,10 @@
 //import 'package:example_project/controllers/login_controller.dart';
-import 'package:laith_project/controllers/counter_controller.dart';
-import 'package:laith_project/controllers/login_controller.dart';
-import 'package:laith_project/controllers/swap_name_controller.dart';
-import 'package:laith_project/examples/media_query_example.dart';
-import 'package:laith_project/screens/all_in_one.dart';
-import 'package:laith_project/examples/counter_with_provider.dart';
-import 'package:laith_project/examples/login_with_provider.dart';
-import 'package:laith_project/examples/name_swap_with_provider.dart';
+import 'controllers/counter_controller.dart';
+import 'controllers/login_controller.dart';
+import 'controllers/swap_name_controller.dart';
+
+import 'screens/all_in_one.dart';
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

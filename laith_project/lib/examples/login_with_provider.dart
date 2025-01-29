@@ -1,4 +1,4 @@
-import 'package:laith_project/controllers/login_controller.dart';
+import '../controllers/login_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

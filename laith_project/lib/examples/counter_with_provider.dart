@@ -1,4 +1,4 @@
-import 'package:laith_project/controllers/counter_controller.dart';
+import '../controllers/counter_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,19 +1,20 @@
 // screens/landing_page.dart
-import 'package:laith_project/examples/bottom_nav_examples.dart';
-import 'package:laith_project/examples/botton_in_form_example.dart';
-import 'package:laith_project/examples/counter_example.dart';
-import 'package:laith_project/examples/counter_with_provider.dart';
-import 'package:laith_project/examples/form_example.dart';
-import 'package:laith_project/examples/listview_example.dart';
-import 'package:laith_project/examples/login_with_provider.dart';
-import 'package:laith_project/examples/media_query_example.dart';
-import 'package:laith_project/examples/name_swap_with_provider.dart';
-import 'package:laith_project/examples/onboarding_screen.dart';
-import 'package:laith_project/examples/simple_layout_page.dart';
-import 'package:laith_project/examples/single_child_scroll_view_example.dart';
-import 'package:laith_project/examples/sliver_appbar_example.dart';
-import 'package:laith_project/examples/wrap_example.dart';
 import 'package:flutter/material.dart';
+import '../examples/bottom_nav_examples.dart';
+import '../examples/botton_in_form_example.dart';
+import '../examples/counter_example.dart';
+import '../examples/counter_with_provider.dart';
+import '../examples/form_example.dart';
+import '../examples/listview_example.dart';
+import '../examples/login_with_provider.dart';
+import '../examples/media_query_example.dart';
+import '../examples/name_swap_with_provider.dart';
+import '../examples/onboarding_screen.dart';
+import '../examples/simple_layout_page.dart';
+import '../examples/single_child_scroll_view_example.dart';
+import '../examples/sliver_appbar_example.dart';
+import '../examples/wrap_example.dart';
+
 import '../examples/top_nav_example.dart';
 import '../models/example_item.dart';
 
